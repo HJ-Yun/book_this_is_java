@@ -1,8 +1,8 @@
 package Chapter_12;
-
-public class _01_BeepPrintExample2 {
+//make object in main thread and run the method.
+public class _02_BeepPrintExample {
     public static void main(String[] args) {
-        Runnable beepTask = new _01_BeepTask();
+        Runnable beepTask = new _02_BeepTask();
         Thread thread = new Thread(beepTask);
         thread.start();
 

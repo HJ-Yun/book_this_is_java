@@ -1,8 +1,8 @@
 package Chapter_12;
 
-public class _01_BeepPrintExample3 {
+public class _03_BeepPrintExample {
     public static void main(String[] args) {
-        Thread thread = new _01_BeepThread();
+        Thread thread = new _03_BeepThread();
         thread.start();
 
         for (int i = 0; i < 5; i++){

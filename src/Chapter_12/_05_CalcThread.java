@@ -1,7 +1,7 @@
 package Chapter_12;
 
-public class _03_CalcThread extends Thread{
-    public _03_CalcThread(String name){
+public class _05_CalcThread extends Thread{
+    public _05_CalcThread(String name){
         setName(name);
     }
     public void run(){

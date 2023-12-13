@@ -2,9 +2,11 @@ package Chapter_12;
 
 import java.awt.*;
 
-public class _01_BeepPrintExample1 {
+//Print "Beep" after sound 'beep' is finished.
+public class _01_BeepPrintExample {
     public static void main(String[] args) {
         Toolkit toolkit = Toolkit.getDefaultToolkit();
+
         for (int i = 0; i < 5; i++){
             toolkit.beep();
             try {

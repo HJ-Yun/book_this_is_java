@@ -1,7 +1,7 @@
 package Chapter_12;
 
-public class _02_ThreadA extends Thread{
-    public _02_ThreadA(){
+public class _04_ThreadA extends Thread{
+    public _04_ThreadA(){
         setName("ThreadA");
     }
 

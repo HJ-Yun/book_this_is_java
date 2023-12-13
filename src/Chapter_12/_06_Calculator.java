@@ -1,13 +1,13 @@
 package Chapter_12;
 
-public class _04_Calculator {
+public class _06_Calculator {
     private int memory;
 
     public int getMemory(){
         return memory;
     }
 
-    public void setMemory(int memory){
+    public synchronized void setMemory(int memory){
         this.memory = memory;
         try {
             Thread.sleep(2000);

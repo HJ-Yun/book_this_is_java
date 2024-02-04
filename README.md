@@ -1,4 +1,4 @@
-This is aobut Java basic from YouTube and Book.
+This is about Java basic from YouTube and Book named "This is Java".
 
 This lecture is proceed by Korean, but it is easy to learn.
 

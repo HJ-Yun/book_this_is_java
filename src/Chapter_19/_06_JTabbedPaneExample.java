@@ -28,12 +28,6 @@ public class _06_JTabbedPaneExample extends JFrame {
         return tab2Panel;
     }
 
-    public _06_JTabbedPaneExample(){
-        this.setTitle("JTabbedPane Example");
-        this.setSize(300,200);
-        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.getContentPane().add(getjTabbedPane(), BorderLayout.CENTER);
-    }
 
     private JTabbedPane getjTabbedPane(){
         if (jTabbedPane == null){
@@ -43,6 +37,13 @@ public class _06_JTabbedPaneExample extends JFrame {
             jTabbedPane.addTab("Tab2",getTab2Panel());
         }
         return jTabbedPane;
+    }
+
+    public _06_JTabbedPaneExample(){
+        this.setTitle("JTabbedPane Example");
+        this.setSize(300,200);
+        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.getContentPane().add(getjTabbedPane(), BorderLayout.CENTER);
     }
 
     public static void main(String[] args) {

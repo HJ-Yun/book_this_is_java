@@ -74,12 +74,6 @@ public class _19_JRadioButtonExample extends JFrame {
         return btBlue;
     }
 
-
-
-
-
-
-
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
             @Override

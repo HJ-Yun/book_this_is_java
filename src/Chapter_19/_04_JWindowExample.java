@@ -16,7 +16,7 @@ public class _04_JWindowExample extends JWindow {
         this.setLocation(leftTopX,leftTopY);
 
         JLabel jLabel = new JLabel();
-        jLabel.setIcon(new ImageIcon(getClass().getResource("picture.jpg")));
+        jLabel.setIcon(new ImageIcon(getClass().getResource("source/picture.jpg")));
         getContentPane().add(jLabel, BorderLayout.CENTER);
 
         this.addMouseListener(new MouseAdapter() {

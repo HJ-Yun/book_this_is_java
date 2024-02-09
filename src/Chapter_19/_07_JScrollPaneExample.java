@@ -25,7 +25,7 @@ public class _07_JScrollPaneExample extends JFrame{
     private JLabel getLabelImage(){
         if (jLabel == null){
             jLabel = new JLabel();
-            jLabel.setIcon(new ImageIcon(getClass().getResource("picture.jpg")));
+            jLabel.setIcon(new ImageIcon(getClass().getResource("source/picture.jpg")));
         }
         return jLabel;
     }

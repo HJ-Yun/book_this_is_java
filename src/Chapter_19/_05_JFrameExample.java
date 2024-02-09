@@ -7,7 +7,7 @@ public class _05_JFrameExample extends JFrame {
     _05_JFrameExample(){
         this.setSize(600,500);
 
-        this.setIconImage(new ImageIcon(getClass().getResource("picture.jpg")).getImage());
+        this.setIconImage(new ImageIcon(getClass().getResource("source/picture.jpg")).getImage());
         this.setTitle("Main");
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

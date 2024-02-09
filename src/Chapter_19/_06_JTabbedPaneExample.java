@@ -12,7 +12,7 @@ public class _06_JTabbedPaneExample extends JFrame {
         if (tab1Panel == null){
             tab1Panel = new JPanel();
             JLabel jLabel = new JLabel();
-            jLabel.setIcon(new ImageIcon(getClass().getResource("gifSample1.gif")));
+            jLabel.setIcon(new ImageIcon(getClass().getResource("source/gifSample1.gif")));
             tab1Panel.add(jLabel);
         }
         return tab1Panel;
@@ -22,7 +22,7 @@ public class _06_JTabbedPaneExample extends JFrame {
         if (tab2Panel == null){
             tab2Panel = new JPanel();
             JLabel jLabel = new JLabel();
-            jLabel.setIcon(new ImageIcon(getClass().getResource("gifSample2.gif")));
+            jLabel.setIcon(new ImageIcon(getClass().getResource("source/gifSample2.gif")));
             tab2Panel.add(jLabel);
         }
         return tab2Panel;

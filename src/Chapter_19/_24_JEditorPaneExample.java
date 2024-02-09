@@ -21,7 +21,7 @@ public class _24_JEditorPaneExample extends JFrame {
         if (jEditorPane == null){
             jEditorPane = new JEditorPane();
             try {
-                jEditorPane.setPage(getClass().getResource("jeditorpane.html"));
+                jEditorPane.setPage(getClass().getResource("source/jeditorpane.html"));
             } catch (Exception e){}
             jEditorPane.setEditable(false);
             jEditorPane.addHyperlinkListener(new HyperlinkListener() {

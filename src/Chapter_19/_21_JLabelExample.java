@@ -35,7 +35,7 @@ public class _21_JLabelExample extends JFrame {
     private JLabel getJLabel2(){
         if (jLabel2 == null){
             jLabel2 = new JLabel();
-            jLabel2.setIcon(new ImageIcon(getClass().getResource("gifSample1.gif")));
+            jLabel2.setIcon(new ImageIcon(getClass().getResource("source/gifSample1.gif")));
             jLabel2.setText("JLabel_2");
             jLabel2.setHorizontalAlignment(JLabel.CENTER);
             jLabel2.setBorder(new TitledBorder("JLabel_2 Title"));
@@ -45,7 +45,7 @@ public class _21_JLabelExample extends JFrame {
     private JLabel getJLabel3(){
         if (jLabel3 == null){
             jLabel3 = new JLabel();
-            jLabel3.setIcon(new ImageIcon(getClass().getResource("gifSample1.gif")));
+            jLabel3.setIcon(new ImageIcon(getClass().getResource("source/gifSample1.gif")));
             jLabel3.setText("JLabel_3");
             jLabel3.setHorizontalAlignment(JLabel.CENTER);
             jLabel3.setHorizontalTextPosition(JLabel.LEFT);
@@ -56,7 +56,7 @@ public class _21_JLabelExample extends JFrame {
     private JLabel getJLabel4(){
         if (jLabel4 == null){
             jLabel4 = new JLabel();
-            jLabel4.setIcon(new ImageIcon(getClass().getResource("gifSample1.gif")));
+            jLabel4.setIcon(new ImageIcon(getClass().getResource("source/gifSample1.gif")));
             jLabel4.setText("JLabel_4");
             jLabel4.setHorizontalAlignment(JLabel.CENTER);
             jLabel4.setIconTextGap(20);

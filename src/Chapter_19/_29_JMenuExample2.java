@@ -64,15 +64,6 @@ public class _29_JMenuExample2 extends JFrame {
         }
     };
 
-
-
-
-
-
-
-
-
-
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
             @Override

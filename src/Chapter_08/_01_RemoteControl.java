@@ -1,4 +1,4 @@
-package Chapter_08;
+package chapter_08;
 
 public interface _01_RemoteControl {
     //Constant Field

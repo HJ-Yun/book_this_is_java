@@ -1,4 +1,4 @@
-package Chapter_06;
+package chapter_06;
 
 import CarExample.TypeA.*;
 import CarExample.TypeC.Engine;

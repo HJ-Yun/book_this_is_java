@@ -1,4 +1,4 @@
-package Chapter_07;
+package chapter_07;
 
 class A{}
 class B extends A{}

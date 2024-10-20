@@ -1,4 +1,4 @@
-package Chapter_04;
+package chapter_04;
 
 public class _16_CountinueExample {
     public static void main(String[] args) {

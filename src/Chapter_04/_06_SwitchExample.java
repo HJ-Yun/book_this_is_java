@@ -1,4 +1,4 @@
-package Chapter_04;
+package chapter_04;
 
 public class _06_SwitchExample {
     public static void main(String[] args) {

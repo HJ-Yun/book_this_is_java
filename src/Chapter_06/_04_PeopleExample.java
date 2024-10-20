@@ -1,4 +1,4 @@
-package Chapter_06;
+package chapter_06;
 
 public class _04_PeopleExample {
     public static void main(String[] args) {

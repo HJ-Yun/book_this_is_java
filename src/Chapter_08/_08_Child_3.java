@@ -1,4 +1,4 @@
-package Chapter_08;
+package chapter_08;
 
 public class _08_Child_3 implements _08_ChildInterface_3{
     @Override

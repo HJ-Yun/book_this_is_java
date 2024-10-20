@@ -1,4 +1,4 @@
-package Chapter_12;
+package chapter_12;
 
 public class _13_PrintThread1 extends Thread{
     private boolean stop;

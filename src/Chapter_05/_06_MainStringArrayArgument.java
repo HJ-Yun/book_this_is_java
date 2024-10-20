@@ -1,4 +1,4 @@
-package Chapter_05;
+package chapter_05;
 
 public class _06_MainStringArrayArgument {
     public static void main(String[] args) {

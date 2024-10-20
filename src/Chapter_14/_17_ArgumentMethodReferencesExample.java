@@ -1,4 +1,4 @@
-package Chapter_14;
+package chapter_14;
 
 import java.util.function.ToIntBiFunction;
 import java.util.function.ToIntFunction;

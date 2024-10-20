@@ -1,4 +1,4 @@
-package Chapter_05;
+package chapter_05;
 
 import java.util.Calendar;
 public class _12_EnumWeekExample {

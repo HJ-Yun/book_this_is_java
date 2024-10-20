@@ -1,4 +1,4 @@
-package Chapter_11;
+package chapter_11;
 
 public class _25_StringLengthExample {
     public static void main(String[] args) {

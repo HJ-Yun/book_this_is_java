@@ -1,4 +1,4 @@
-package Chapter_07;
+package chapter_07;
 
 public class _14_Dog extends _14_Animal{
     @Override

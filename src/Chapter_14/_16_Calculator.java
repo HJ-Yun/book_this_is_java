@@ -1,4 +1,4 @@
-package Chapter_14;
+package chapter_14;
 
 public class _16_Calculator {
     public static int staticMethod(int x, int y){

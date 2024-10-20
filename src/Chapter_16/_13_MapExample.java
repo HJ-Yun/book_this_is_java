@@ -1,6 +1,6 @@
-package Chapter_16;
+package chapter_16;
 
-import Chapter_14._12_Member;
+import chapter_14._12_Member;
 
 import java.util.Arrays;
 import java.util.List;

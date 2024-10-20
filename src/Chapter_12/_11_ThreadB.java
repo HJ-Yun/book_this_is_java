@@ -1,4 +1,4 @@
-package Chapter_12;
+package chapter_12;
 
 public class _11_ThreadB extends Thread{
     private _11_WorkObject workObject;

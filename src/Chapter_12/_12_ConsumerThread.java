@@ -1,4 +1,4 @@
-package Chapter_12;
+package chapter_12;
 
 public class _12_ConsumerThread extends Thread{
     private _12_DataBox dataBox;

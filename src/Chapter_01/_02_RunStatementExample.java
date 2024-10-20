@@ -1,4 +1,4 @@
-package Chapter_01;
+package chapter_01;
 
 public class _02_RunStatementExample {
     public static void main(String[] args) {

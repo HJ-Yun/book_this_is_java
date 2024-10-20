@@ -1,4 +1,4 @@
-package Chapter_16;
+package chapter_16;
 
 public class _02_Student {
     private String name;

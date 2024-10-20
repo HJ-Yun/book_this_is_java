@@ -1,4 +1,4 @@
-package Chapter_07;
+package chapter_07;
 
 public class _07_Child extends _07_Parent{
     //method1

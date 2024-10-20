@@ -1,4 +1,4 @@
-package Chapter_10;
+package chapter_10;
 
 class Animal{}
 class Dog extends Animal{}

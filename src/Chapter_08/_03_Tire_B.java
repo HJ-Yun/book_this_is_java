@@ -1,4 +1,4 @@
-package Chapter_08;
+package chapter_08;
 
 public class _03_Tire_B implements _03_Tire{
     public void roll(){

@@ -1,4 +1,4 @@
-package Chapter_07;
+package chapter_07;
 
 public class _13_PhoneExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Chapter_12;
+package chapter_12;
 
 public class _07_StatePrintThread extends Thread{
     private Thread targetThread;

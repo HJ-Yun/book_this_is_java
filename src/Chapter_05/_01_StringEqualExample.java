@@ -1,4 +1,4 @@
-package Chapter_05;
+package chapter_05;
 
 public class _01_StringEqualExample {
     public static void main(String[] args) {

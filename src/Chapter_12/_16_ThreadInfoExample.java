@@ -1,4 +1,4 @@
-package Chapter_12;
+package chapter_12;
 
 import java.util.Map;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package Chapter_04;
+package chapter_04;
 
 import java.util.Scanner;
 public class _13_DoWhileExample {

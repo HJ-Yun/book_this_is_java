@@ -1,4 +1,4 @@
-package Chapter_09;
+package chapter_09;
 
 class _01_A {
     _01_A() {

@@ -1,4 +1,4 @@
-package Chapter_07;
+package chapter_07;
 
 public class _03_Computer extends _03_Calculator {
     @Override

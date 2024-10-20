@@ -1,4 +1,4 @@
-package Chapter_05;
+package chapter_05;
 
 public class _07_ArrayInArrayExample {
     public static void main(String[] args) {

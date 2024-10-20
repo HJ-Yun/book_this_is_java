@@ -1,4 +1,4 @@
-package Chapter_08;
+package chapter_08;
 
 public class _02_SmartTelevision implements _01_RemoteControl, _01_Searchable{
     private int volume;

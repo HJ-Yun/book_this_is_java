@@ -1,4 +1,4 @@
-package Chapter_09;
+package chapter_09;
 
 public class _10_Anonymous {
     private int field;

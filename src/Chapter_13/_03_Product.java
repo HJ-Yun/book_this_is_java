@@ -1,4 +1,4 @@
-package Chapter_13;
+package chapter_13;
 
 public class _03_Product<T,M> {
     private T kind;

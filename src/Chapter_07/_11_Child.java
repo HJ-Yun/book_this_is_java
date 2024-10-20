@@ -1,4 +1,4 @@
-package Chapter_07;
+package chapter_07;
 
 public class _11_Child extends _11_Parent{
     public String field2;

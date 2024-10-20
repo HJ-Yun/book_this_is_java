@@ -1,4 +1,4 @@
-package Chapter_04;
+package chapter_04;
 public class _05_IfNestedExample {
     public static void main(String[] args) {
         int score = (int) (Math.random() * 100) + 1;

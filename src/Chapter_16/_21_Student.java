@@ -1,4 +1,4 @@
-package Chapter_16;
+package chapter_16;
 
 public class _21_Student {
     public enum Sex {MALE, FEMALE};

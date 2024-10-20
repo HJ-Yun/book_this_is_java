@@ -1,4 +1,4 @@
-package Chapter_14;
+package chapter_14;
 
 public class _15_Fruit {
     private String name;

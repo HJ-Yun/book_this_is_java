@@ -1,4 +1,4 @@
-package Chapter_08;
+package chapter_08;
 
 public class _01_Audio implements _01_RemoteControl{
     //Field

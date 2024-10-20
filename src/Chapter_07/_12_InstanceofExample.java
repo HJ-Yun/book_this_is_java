@@ -1,4 +1,4 @@
-package Chapter_07;
+package chapter_07;
 
 public class _12_InstanceofExample {
     public static void method1(_12_Parent myParent){

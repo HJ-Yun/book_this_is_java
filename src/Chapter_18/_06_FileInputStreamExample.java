@@ -1,4 +1,4 @@
-package Chapter_18;
+package chapter_18;
 
 import java.io.FileInputStream;
 
@@ -6,7 +6,7 @@ public class _06_FileInputStreamExample {
     public static void main(String[] args) {
         try {
             FileInputStream fis = new FileInputStream(
-                    "C:/JavaWorkspace/This is Java_Book/src/Chapter_18/_06_FileInputStreamExample.java"
+                    "C:/JavaWorkspace/This is Java_Book/src/chapter_18/_06_FileInputStreamExample.java"
             );
 
             int data;

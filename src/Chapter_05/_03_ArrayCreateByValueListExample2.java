@@ -1,4 +1,4 @@
-package Chapter_05;
+package chapter_05;
 
 public class _03_ArrayCreateByValueListExample2 {
     public static int add(int[] score){

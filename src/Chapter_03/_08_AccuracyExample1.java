@@ -1,4 +1,4 @@
-package Chapter_03;
+package chapter_03;
 
 public class _08_AccuracyExample1 {
     public static void main(String[] args) {

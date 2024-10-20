@@ -1,4 +1,4 @@
-package Chapter_13;
+package chapter_13;
 
 public class _06_Util {
     public static <T extends Number> int compare(T t1, T t2){

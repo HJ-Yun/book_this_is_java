@@ -1,4 +1,4 @@
-package Chapter_19;
+package chapter_19;
 
 import javax.swing.*;
 import javax.swing.event.ListSelectionEvent;

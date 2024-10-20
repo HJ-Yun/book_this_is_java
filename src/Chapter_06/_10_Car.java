@@ -1,4 +1,4 @@
-package Chapter_06;
+package chapter_06;
 
 public class _10_Car {
     int speed;

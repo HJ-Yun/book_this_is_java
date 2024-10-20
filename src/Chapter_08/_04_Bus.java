@@ -1,4 +1,4 @@
-package Chapter_08;
+package chapter_08;
 
 public class _04_Bus implements _04_Vehicle{
     @Override

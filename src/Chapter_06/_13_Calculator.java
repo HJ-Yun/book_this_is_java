@@ -1,4 +1,4 @@
-package Chapter_06;
+package chapter_06;
 
 public class _13_Calculator {
     static double pi = 3.141592;

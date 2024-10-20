@@ -1,4 +1,4 @@
-package Chapter_12;
+package chapter_12;
 
 public class _13_StopFlagExample {
     public static void main(String[] args) {

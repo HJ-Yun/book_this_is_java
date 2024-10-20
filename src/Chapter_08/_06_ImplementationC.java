@@ -1,4 +1,4 @@
-package Chapter_08;
+package chapter_08;
 
 public class _06_ImplementationC implements _06_InterfaceC{
     public void methodA() {

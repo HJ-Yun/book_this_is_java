@@ -1,4 +1,4 @@
-package Chapter_15;
+package chapter_15;
 
 public class _16_Message {
     public String command;

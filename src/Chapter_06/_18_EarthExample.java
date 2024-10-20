@@ -1,4 +1,4 @@
-package Chapter_06;
+package chapter_06;
 
 public class _18_EarthExample {
     public static void main(String[] args) {

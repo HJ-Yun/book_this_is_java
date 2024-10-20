@@ -1,4 +1,4 @@
-package Chapter_14;
+package chapter_14;
 
 @FunctionalInterface
 public interface _01_MyFunctionalInterface {

@@ -1,6 +1,4 @@
-package Chapter_07;
-
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+package chapter_07;
 
 public class _02_StudentExample {
     public static void main(String[] args) {

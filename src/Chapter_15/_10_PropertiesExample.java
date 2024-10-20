@@ -1,4 +1,4 @@
-package Chapter_15;
+package chapter_15;
 
 import java.io.FileReader;
 import java.net.URLDecoder;

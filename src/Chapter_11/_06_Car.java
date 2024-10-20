@@ -1,4 +1,4 @@
-package Chapter_11;
+package chapter_11;
 
 public class _06_Car {
     public String model;

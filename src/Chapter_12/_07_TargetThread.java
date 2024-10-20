@@ -1,4 +1,4 @@
-package Chapter_12;
+package chapter_12;
 
 public class _07_TargetThread extends Thread{
     public void run(){

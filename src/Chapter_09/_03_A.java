@@ -1,4 +1,4 @@
-package Chapter_09;
+package chapter_09;
 
 public class _03_A {
     int field1;

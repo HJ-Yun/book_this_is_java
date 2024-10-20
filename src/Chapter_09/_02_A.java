@@ -1,4 +1,4 @@
-package Chapter_09;
+package chapter_09;
 
 public class _02_A {
     class _02_B{} //Instance member class

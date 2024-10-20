@@ -1,11 +1,11 @@
-package Chapter_18;
+package chapter_18;
 
 import java.io.FileReader;
 
 public class _08_FileReaderExample {
     public static void main(String[] args) throws Exception{
         FileReader fr = new FileReader(
-                "C:/JavaWorkspace/This is Java_Book/src/Chapter_18/_08_FileReaderExample.java"
+                "C:/JavaWorkspace/This is Java_Book/src/chapter_18/_08_FileReaderExample.java"
         );
 
         int readCharNo;

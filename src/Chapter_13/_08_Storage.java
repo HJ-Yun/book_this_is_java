@@ -1,4 +1,4 @@
-package Chapter_13;
+package chapter_13;
 
 public interface _08_Storage<T> {
     public void add(T item, int index);

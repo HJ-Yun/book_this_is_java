@@ -1,4 +1,4 @@
-package Chapter_10;
+package chapter_10;
 
 public class _10_FileInputStream implements AutoCloseable{
     private String name;

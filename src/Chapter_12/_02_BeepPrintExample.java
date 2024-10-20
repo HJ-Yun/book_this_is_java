@@ -1,4 +1,4 @@
-package Chapter_12;
+package chapter_12;
 //make object in main thread and run the method.
 public class _02_BeepPrintExample {
     public static void main(String[] args) {

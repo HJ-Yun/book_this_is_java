@@ -1,4 +1,4 @@
-package Chapter_08;
+package chapter_08;
 
 public class _03_Car {
     _03_Tire frontLeftTire = new _03_Tire_A();

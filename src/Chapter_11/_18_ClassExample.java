@@ -1,6 +1,6 @@
-package Chapter_11;
+package chapter_11;
 
-import Chapter_09._07_Person;
+import chapter_09._07_Person;
 
 public class _18_ClassExample {
     public static void main(String[] args) {

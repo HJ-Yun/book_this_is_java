@@ -1,4 +1,4 @@
-package Chapter_12;
+package chapter_12;
 
 public class _05_CalcThread extends Thread{
     public _05_CalcThread(String name){

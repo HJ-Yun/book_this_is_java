@@ -1,4 +1,4 @@
-package Chapter_16;
+package chapter_16;
 
 public class _10_Member {
     public static int MALE = 0;

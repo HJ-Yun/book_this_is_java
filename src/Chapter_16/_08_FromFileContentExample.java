@@ -1,4 +1,4 @@
-package Chapter_16;
+package chapter_16;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 
 public class _08_FromFileContentExample {
     public static void main(String[] args) throws IOException {
-        Path path = Paths.get("C:/JavaWorkspace/This is Java_Book/src/Chapter_15/_10_database.properties");
+        Path path = Paths.get("C:/JavaWorkspace/This is Java_Book/src/chapter_15/_10_database.properties");
         Stream<String> stream;
 
         //Files.lines()

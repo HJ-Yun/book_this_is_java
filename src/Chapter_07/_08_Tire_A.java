@@ -1,4 +1,4 @@
-package Chapter_07;
+package chapter_07;
 
 public class _08_Tire_A extends _08_Tire{
     @Override

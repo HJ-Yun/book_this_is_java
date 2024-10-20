@@ -1,4 +1,4 @@
-package Chapter_13;
+package chapter_13;
 
 public class _08_StorageImpl<T> implements _08_Storage<T>{
     private T[] array;

@@ -1,4 +1,4 @@
-package Chapter_10;
+package chapter_10;
 
 public class _02_ArrayExceptionCorrect {
     public static void main(String[] args) {

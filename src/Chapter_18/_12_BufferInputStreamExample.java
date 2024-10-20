@@ -1,4 +1,4 @@
-package Chapter_18;
+package chapter_18;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;

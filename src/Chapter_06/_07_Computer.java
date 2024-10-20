@@ -1,4 +1,4 @@
-package Chapter_06;
+package chapter_06;
 
 public class _07_Computer {
     int sum1(int[] value){

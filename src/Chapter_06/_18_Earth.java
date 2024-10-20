@@ -1,4 +1,4 @@
-package Chapter_06;
+package chapter_06;
 
 public class _18_Earth {
     static final double EARTH_RADIUS = 6400;

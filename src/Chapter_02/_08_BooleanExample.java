@@ -1,4 +1,4 @@
-package Chapter_02;
+package chapter_02;
 
 public class _08_BooleanExample {
     public static void main(String[] args) {

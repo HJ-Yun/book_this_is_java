@@ -1,4 +1,4 @@
-package Chapter_07;
+package chapter_07;
 
 public class _01_SmartPhone extends _01_CellPhone{
     int channel;

@@ -1,4 +1,4 @@
-package Chapter_07;
+package chapter_07;
 
 public class _09_Tire_B extends _09_Tire{
         //Field

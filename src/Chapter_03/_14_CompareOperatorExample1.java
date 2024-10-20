@@ -1,4 +1,4 @@
-package Chapter_03;
+package chapter_03;
 
 public class _14_CompareOperatorExample1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Chapter_05;
+package chapter_05;
 
 public enum Week {
     MONDAY, //0

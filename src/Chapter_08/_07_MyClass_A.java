@@ -1,4 +1,4 @@
-package Chapter_08;
+package chapter_08;
 
 public class _07_MyClass_A implements _07_MyInterface{
     @Override

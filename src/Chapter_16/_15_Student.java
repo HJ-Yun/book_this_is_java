@@ -1,4 +1,4 @@
-package Chapter_16;
+package chapter_16;
 
 public class _15_Student implements Comparable<_15_Student>{
     private String name;

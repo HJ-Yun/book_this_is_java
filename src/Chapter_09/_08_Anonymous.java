@@ -1,4 +1,4 @@
-package Chapter_09;
+package chapter_09;
 
 public class _08_Anonymous{
     _08_RemoteControl myRemoteControl = new _08_RemoteControl() {
